@@ -7,3 +7,9 @@ This repository contains the python codes of the paper
 
 # Detailed flow diagram showing the iterative sequence for policy parameter update.
 ![Agent–Environment interaction](Figure3.png)
+
+# Files
+A short description of the files is provided below for ease of reading.
+Folder: QCModel
+  + `RLAlgorithm_QCmodel_P.ipynb`: This code is for 1-D wave advection equation (time-dependent problem).
+  + `RLAlgorithm_QCmodel_PI.ipynb`: This code is for 1-D Burgers' equation with discontinuous field (time-dependent problem).
