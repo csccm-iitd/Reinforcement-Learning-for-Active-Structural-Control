@@ -28,12 +28,12 @@ The following packages are required to be installed to run the above codes:
 # BibTex
 If you use any part of our codes, please cite us at,
 
-@article{Panda2023RL,
-  title={An iterative gradient descent-based reinforcement learning policy for active control of structural vibrations},
-  author={Panda, J. and Chopra, M. and Matsagar, V. and Chakraborty, S.},
-  journal={Computers & Structures},
-  volume={0},
-  pages={0},
+@article{tripura2023wavelet,
+  title={Wavelet Neural Operator for solving parametric partial differential equations in computational mechanics problems},
+  author={Tripura, Tapas and Chakraborty, Souvik},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={404},
+  pages={115783},
   year={2023},
   publisher={Elsevier}
 }
