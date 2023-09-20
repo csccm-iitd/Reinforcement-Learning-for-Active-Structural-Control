@@ -19,3 +19,9 @@ Folder: 8Story (Discrete time)
   + `Validation_8Story_P&PI.ipynb`: This code is for the robust performance of trained RL controllers in P and PI feedback (Section 5.2.2, Figure 11).
 Considered SAC ground motions to validate the robust performance of the trained controllers are placed in the folder '8Story' along with the state-space matrices and updated P and PI controller gains. In case, the location of the mentioned data is changed, the correct path should be given.
 
+# Library support
+The following packages are required to be installed to run the above codes:
+  + [TensorFlow](https://www.tensorflow.org)
+  + [Python Control Systems Library](https://python-control.readthedocs.io/en/latest/matlab.html)
+  + [Fast Fourier Transform in Python](https://pythonnumericalmethods.berkeley.edu/notebooks/chapter24.04-FFT-in-Python.html)
+
