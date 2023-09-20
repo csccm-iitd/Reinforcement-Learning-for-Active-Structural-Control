@@ -32,8 +32,8 @@ If you use any part of our codes, please cite us at,
   title={An iterative gradient descent-based reinforcement learning policy for active control of structural vibrations},
   author={Panda, J. and Chopra, M. and Matsagar, V. and Chakraborty, S.},
   journal={Computers & Structures},
-  volume={},
-  pages={},
+  volume={0},
+  pages={0},
   year={2023},
   publisher={Elsevier}
 }
