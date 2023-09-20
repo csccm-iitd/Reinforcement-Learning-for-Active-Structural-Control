@@ -25,3 +25,16 @@ The following packages are required to be installed to run the above codes:
   + [Python Control Systems Library](https://python-control.readthedocs.io/en/latest/matlab.html)
   + [Fast Fourier Transform in Python](https://pythonnumericalmethods.berkeley.edu/notebooks/chapter24.04-FFT-in-Python.html)
 
+# BibTex
+If you use any part of our codes, please cite us at,
+
+@article{Panda2023RL,
+  title={An iterative gradient descent-based reinforcement learning policy for active control of structural vibrations},
+  author={Panda, J. and Chopra, M. and Matsagar, V. and Chakraborty, S.},
+  journal={Computers & Structures},
+  volume={},
+  pages={},
+  year={2023},
+  publisher={Elsevier}
+}
+
